@@ -1,1 +1,1 @@
-# lojaJogos
+# Site para um ecommerce focado no mercado de jogos

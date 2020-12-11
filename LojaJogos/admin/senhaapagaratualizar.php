@@ -1,0 +1,4 @@
+<?php
+$conexao = new PDO("mysql: host=localhost,port=3306,dbname=loja","root","");
+$conexao->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+?>
